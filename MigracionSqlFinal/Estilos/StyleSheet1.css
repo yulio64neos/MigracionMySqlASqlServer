@@ -1,0 +1,55 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.subtitle{
+    font-size: 60px;
+}
+
+.imgMysql {
+    width: 100px;
+    margin-right: 15px;
+    
+}
+
+.imgSql {
+    width: 100px;
+    margin-right: 15px;
+}
+
+#btnConexion {
+    background: rgb(209,150,77);
+    background: linear-gradient(349deg, rgba(209,150,77,0.541036482952556) 30%, rgba(21,50,189,0.3253502084427521) 82%);
+    border: none;
+    color: white;
+    padding: 32px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#btnConexion2 {
+    background: rgb(233,21,21);
+    background: linear-gradient(174deg, rgba(233,21,21,0.541036482952556) 30%, rgba(189,21,58,0.3253502084427521) 82%);
+    border: none;
+    color: white;
+    padding: 32px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#btnMigracion {
+    background: rgb(233,21,21);
+    background: linear-gradient(174deg, rgba(233,21,21,0.541036482952556) 30%, rgba(52,21,189,0.3253502084427521) 82%);
+    border: none;
+    color: white;
+    padding: 32px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
